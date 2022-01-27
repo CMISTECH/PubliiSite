@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cmistech.github.io/PubliiSite/sitemap.xml
